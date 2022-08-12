@@ -2,7 +2,7 @@
 FROM ubuntu:20.04
 
 # MetaData
-LABEL maintainer ="gms8757@naver.com"
+LABEL email ="gms8757@naver.com"
 LABEL version ="1.0.0"
 LABEL description ="Ubuntu docker test"v
 
