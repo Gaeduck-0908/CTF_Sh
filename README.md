@@ -1,6 +1,4 @@
-# Docker_Collection
-### A repository of Docker files for each Linux.
-# install
+# CTF_Sh
 ```
-docker run [OPTIONS] IMAGE[:TAG|@DIGEST] [COMMAND] [ARG...]
+git clone
 ```
